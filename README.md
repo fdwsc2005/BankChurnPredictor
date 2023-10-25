@@ -1,1 +1,8 @@
 # BankChurnPredictor
+BankChurnPredictor is a machine learning project dedicated to helping banks anticipate and mitigate customer churn. Customer churn, or attrition, is a critical concern for the financial industry. This project leverages advanced machine learning techniques to predict when and why customers might leave their banking relationship. By analyzing various data sources, including transaction history, customer demographics, and interaction patterns, BankChurnPredictor provides valuable insights to help banks proactively retain their customers.
+
+Our goal is to develop predictive models that identify at-risk customers, allowing banks to take targeted actions to improve retention rates. With the power of data science and predictive analytics, we aim to empower financial institutions to better serve their customers and reduce churn, ultimately enhancing customer satisfaction and business sustainability. Join us in the journey to make a significant impact on the banking industry's customer retention strategies.
+
+Problem Statement:
+
+The aim of this study is to identify factors influencing customer churn in a bank and develop strategies to prevent customer attrition. By analyzing a comprehensive dataset that includes customer attributes, transaction history, and feedback, we will investigate the relationship between various variables and the likelihood of customers leaving the bank. The findings will enable the bank to understand the key drivers of churn and implement targeted retention initiatives such as loyalty programs and personalized campaigns. Ultimately, reducing customer churn will contribute to the bank's profitability and customer satisfaction by maintaining a loyal customer base.
